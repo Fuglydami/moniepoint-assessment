@@ -8,7 +8,7 @@ This project is a UI translation assessment for Moniepoint. As a frontend develo
 
 ```bash
 
-git clone https://github.com/your-username/moniepoint-assessment.git
+git clone https://github.com/fuglydami/moniepoint-assessment.git
 
 cd moniepoint-assessment
 
@@ -38,6 +38,6 @@ The translated UI is deployed for testing: [Moniepoint Assessment](https://monie
 
 ## Contributors
 
-- **Damilare**: Frontend Developer
+- **Damilare**: Software Engineer
 
 - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/damilareoyedeji/)
