@@ -34,7 +34,7 @@ Access the app at [http://localhost:4000](http://localhost:4000).
 
 ## Deployment
 
-The translated UI is deployed for testing: [Moniepoint Assessment](https://moniepoint-assessment-translation.vercel.app/)
+The translated UI is deployed for testing: [Moniepoint Assessment](https://moniepoint-assessment.vercel.app/)
 
 ## Contributors
 
