@@ -22,7 +22,7 @@ const StackedCards = () => {
       initial={{ y: 40 }}
       animate={{ y: 0 }}
       transition={{ duration: 1.5, delay: 0.3 }}
-      className='container  absolute top-[40%] left-[40%]'
+      className='container  absolute top-[35%] left-[40%]'
     >
       <div>
         {cards.map((card, index) => {
