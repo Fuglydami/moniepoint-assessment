@@ -1,8 +1,43 @@
-# React + Vite
+# Moniepoint UI Translation Assessment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a UI translation assessment for Moniepoint. As a frontend developer, I've translated various elements of the user interface into the target language while ensuring a seamless user experience.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1\. **Clone the Repository:**
+
+```bash
+
+git clone https://github.com/your-username/moniepoint-assessment.git
+
+cd moniepoint-assessment
+
+```
+
+2\. **Install Dependencies:**
+
+```bash
+
+npm install
+
+```
+
+3\. **Run the Application:**
+
+```bash
+
+npm start
+
+```
+
+Access the app at [http://localhost:4000](http://localhost:4000).
+
+## Deployment
+
+The translated UI is deployed for testing: [Moniepoint Assessment](https://moniepoint-assessment-translation.vercel.app/)
+
+## Contributors
+
+- **Damilare**: Frontend Developer
+
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/damilareoyedeji/)
